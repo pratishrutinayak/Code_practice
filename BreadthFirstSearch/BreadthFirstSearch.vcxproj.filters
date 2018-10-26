@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BFS_graph.cpp">
+    <ClCompile Include="3Sums.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
